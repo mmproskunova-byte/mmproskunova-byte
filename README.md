@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Марина 👋
 
-<!--
-**mmproskunova-byte/mmproskunova-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Фрилансер: пишу тексты, делаю изображения и лендинги, разрабатываю веб-приложения.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Веб-разработка**: лендинги, интерфейсы и приложения
+- ✍️ **Тексты**: статьи, описания, продающие и информационные материалы
+- 🛍️ **Карточки товаров**: заголовки, описания и оформление для маркетплейсов
+- 🖼️ **Изображения**: визуал для сайтов и карточек товаров
+
+## Стек
+
+HTML · CSS · JavaScript
+
+## Проекты
+
+- [Tracker](https://github.com/mmproskunova-byte/Tracker): трекер задач на JavaScript
+
+## Связаться со мной
+
+- Telegram: @marinaprosk7  https://t.me/marinaprosk7
+- Почта: mmproskunova@gmail.com
+
+Открыта к заказам и интересным проектам.
