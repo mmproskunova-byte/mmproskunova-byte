@@ -2,7 +2,7 @@
 
 <p align="center">
   Пишу тексты, делаю изображения, собираю лендинги и разрабатываю свои приложения.<br>
-  Короче, делаю так, чтобы ваш продукт было видно, понятно и хотелось купить.
+  Делаю так, чтобы ваш продукт было видно, понятно и хотелось купить.
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 Пишу тексты для карточек на **Wildberries, Ozon и Яндекс Маркете**: заголовок, описание, выгоды. Чтобы товар находили в поиске и выбирали среди десятков похожих.
 
 ### 💻 Лендинги
-Одностраничные сайты, где всё по делу: оффер, выгоды, кнопка. Верстаю на HTML, CSS и JavaScript, делаю адаптив под телефон и стараюсь, чтобы страница не превращалась в лабиринт.
+Одностраничные сайты, где всё по делу: оффер, выгоды, кнопка. Собираю их с помощью ИИ-инструментов (OpenCode), а результат проверяю и дорабатываю сама. На выходе чистый HTML, CSS и JavaScript с адаптивом под телефон.
 
 ### 🖼️ Изображения
 Визуал для сайтов и лендингов. Чтобы картинка не просто украшала, а помогала продавать.
 
 ### 🚀 Свои проекты
-Разрабатываю веб-приложения на JavaScript. Если можно сделать удобно, зачем делать сложно.
+Разрабатываю веб-приложения на JavaScript вместе с ИИ-ассистентом. Я ставлю задачу и отвечаю за результат, нейросеть помогает с кодом.
 
 ---
 
@@ -57,24 +57,20 @@
 
 | Направление | Инструменты |
 |---|---|
-| Вёрстка | HTML, CSS |
-| Программирование | JavaScript |
+| Результат | HTML, CSS, JavaScript |
+| Разработка | OpenCode (ИИ-ассистент для кода) |
 | Контент | SEO-тексты, посты, карточки товаров |
 
 ---
 
-## 📬 Давайте работать вместе
+## 📬 Связаться со мной
+
+- Telegram: [@marinaprosk7](https://t.me/marinaprosk7)
+- Почта: [mmproskunova@gmail.com](mailto:mmproskunova@gmail.com)
 
 <p>
-  <a href="https://t.me/ВАШ_НИК"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:ваша@почта.ру"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/marinaprosk7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:mmproskunova@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 Есть задача? Напишите, обсудим. Обещаю отвечать быстрее, чем грузится среднее приложение.
-
-## Связаться со мной
-
-- Telegram: @marinaprosk7  https://t.me/marinaprosk7
-- Почта: mmproskunova@gmail.com
-
-Открыта к заказам и интересным проектам.
